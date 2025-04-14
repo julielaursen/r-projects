@@ -12,12 +12,3 @@ git clone <[repository-url](https://github.com/julielaursen/r-projects.git)>
 To start the development server, log on to your R cloud account
 
 
-
-TechSupport.jsx – Technical support page
-ImageSlider.jsx – Image slider for showcasing content
-Deployment Instructions
-1. Build the project:
-npm run build
-2. Deploy the dist/ folder to a static hosting provider like Netlify, Vercel, or GitHub 
-Pages.
-License
