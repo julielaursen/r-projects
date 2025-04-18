@@ -8,7 +8,7 @@ Ensure you have the following installed:
 [R Cloud](https://posit.cloud/)
 
 Clone the Repository
-git clone <[repository-url](https://github.com/julielaursen/r-projects.git)>
+git clone <[https://github.com/julielaursen/r-projects.git](https://github.com/julielaursen/r-projects.git)>
 To start the development server, log on to your R cloud account
 
 
